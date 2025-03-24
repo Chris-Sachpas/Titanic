@@ -1,2 +1,2 @@
-# Churn-Classification
-Telecommunications company clients behaviour and churn prediction
+# Titanic-Classification
+The classic Titanic Classification Problem
